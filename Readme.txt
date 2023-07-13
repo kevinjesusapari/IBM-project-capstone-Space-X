@@ -1,3 +1,3 @@
 hello there!.
-said Gneral Kenobi.
+said General Kenobi.
 -- suspense--
